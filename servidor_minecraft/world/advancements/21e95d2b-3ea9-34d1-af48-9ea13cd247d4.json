@@ -310,6 +310,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2024-12-06 19:53:09 +0000",
       "minecraft:zombie": "2024-12-06 14:39:37 +0000"
     },
     "done": false
@@ -1004,12 +1005,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-06 19:53:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "potato": "2024-12-06 19:34:58 +0000",
       "bread": "2024-12-06 19:37:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-06 19:53:10 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
