@@ -1422,15 +1422,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-06 15:58:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-06 16:05:03 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "slept_in_bed": "2024-12-06 15:58:04 +0000"
+      "has_flint": "2024-12-06 16:13:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-06 16:13:09 +0000"
     },
     "done": true
   },
