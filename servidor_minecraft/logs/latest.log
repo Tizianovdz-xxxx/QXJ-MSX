@@ -146,3 +146,10 @@
 [16:05:33] [User Authenticator #7/INFO]: UUID of player Rapathez is 7bfe5195-b673-3063-b4c1-42bd971d7ff2
 [16:05:33] [Server thread/INFO]: Rapathez joined the game
 [16:05:33] [Server thread/INFO]: Rapathez[/127.233.75.16:50343] logged in with entity id 13096 at ([world]-517.6999999880791, 62.0, -167.69999998807907)
+[16:11:20] [Server thread/INFO]: ositotrk lost connection: Timed out
+[16:11:20] [Server thread/INFO]: ositotrk left the game
+[16:12:43] [User Authenticator #8/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
+[16:12:43] [Server thread/INFO]: ositotrk joined the game
+[16:12:43] [Server thread/INFO]: ositotrk[/127.174.96.151:34453] logged in with entity id 13898 at ([world]-502.09775024900597, 63.0, -182.30000001192093)
+[16:12:51] [Server thread/INFO]: ositotrk suffocated in a wall
+[16:15:04] [Server thread/INFO]: Rapathez has made the advancement [Ice Bucket Challenge]
