@@ -728,6 +728,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-06 19:48:40 +0000",
       "cooked_chicken": "2024-12-06 19:29:15 +0000"
     },
     "done": false

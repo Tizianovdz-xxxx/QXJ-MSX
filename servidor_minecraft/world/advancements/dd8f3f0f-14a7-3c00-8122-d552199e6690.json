@@ -1158,6 +1158,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-06 15:46:52 +0000",
       "cooked_mutton": "2024-12-06 19:18:16 +0000",
+      "cooked_beef": "2024-12-06 19:48:05 +0000",
       "porkchop": "2024-12-06 14:42:38 +0000",
       "mutton": "2024-12-06 14:42:10 +0000"
     },
@@ -1232,8 +1233,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 19:16:57 +0000",
+      "minecraft:hoglin": "2024-12-06 19:47:41 +0000",
       "minecraft:spider": "2024-12-06 15:42:33 +0000",
       "minecraft:cave_spider": "2024-12-06 15:39:38 +0000",
+      "minecraft:enderman": "2024-12-06 19:50:44 +0000",
       "minecraft:zombie": "2024-12-06 14:58:58 +0000"
     },
     "done": false
@@ -1492,7 +1495,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-12-06 19:31:42 +0000"
+      "minecraft:crimson_forest": "2024-12-06 19:31:42 +0000",
+      "minecraft:warped_forest": "2024-12-06 19:49:34 +0000"
     },
     "done": false
   },
@@ -1550,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-06 19:48:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 19:39:45 +0000"
@@ -1559,6 +1569,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2024-12-06 19:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-06 19:48:00 +0000"
     },
     "done": true
   },
@@ -1580,9 +1596,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-06 19:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 19:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-06 19:48:52 +0000"
     },
     "done": true
   },
@@ -1652,9 +1680,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-06 19:46:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-06 19:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-06 19:48:12 +0000"
     },
     "done": true
   },
