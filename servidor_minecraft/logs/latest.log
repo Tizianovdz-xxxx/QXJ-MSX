@@ -1,159 +1,36 @@
-[14:26:29] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:26:29] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[14:26:30] [ServerMain/INFO]: Loaded 7 recipes
-[14:26:31] [Server thread/INFO]: Starting minecraft server version 1.20
-[14:26:31] [Server thread/INFO]: Loading properties
-[14:26:31] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
-[14:26:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:26:31] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:26:31] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[14:26:31] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[17:27:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:27:18] [ServerMain/INFO]: Loaded 7 recipes
+[17:27:18] [Server thread/INFO]: Starting minecraft server version 1.20
+[17:27:18] [Server thread/INFO]: Loading properties
+[17:27:19] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[17:27:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:27:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:27:19] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[14:26:31] [Server thread/INFO]: Default game type: SURVIVAL
-[14:26:31] [Server thread/INFO]: Generating keypair
-[14:26:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:26:32] [Server thread/INFO]: Using epoll channel type
-[14:26:32] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[14:26:32] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[14:26:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:26:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:26:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:26:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:26:32] [Server thread/INFO]: Preparing level "world"
-[14:26:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:26:42] [Server thread/INFO]: Time elapsed: 168 ms
-[14:26:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:26:42] [Server thread/INFO]: Time elapsed: 127 ms
-[14:26:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:26:42] [Server thread/INFO]: Time elapsed: 56 ms
-[14:26:42] [Server thread/INFO]: Running delayed init tasks
-[14:26:42] [Server thread/INFO]: Done (11.103s)! For help, type "help"
-[14:26:42] [Server thread/INFO]: Timings Reset
-[14:28:03] [User Authenticator #0/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[14:28:05] [Server thread/INFO]: ositotrk joined the game
-[14:28:05] [Server thread/INFO]: ositotrk[/127.174.96.151:38721] logged in with entity id 429 at ([world]-51.5, 70.0, 7.5)
-[14:29:18] [Server thread/INFO]: ositotrk has made the advancement [Stone Age]
-[14:30:05] [Server thread/INFO]: ositotrk has made the advancement [Getting an Upgrade]
-[14:32:42] [User Authenticator #1/INFO]: UUID of player tizianovdz__ is 21e95d2b-3ea9-34d1-af48-9ea13cd247d4
-[14:32:42] [Server thread/INFO]: tizianovdz__ joined the game
-[14:32:42] [Server thread/INFO]: tizianovdz__[/127.110.130.87:60311] logged in with entity id 1400 at ([world]-41.5, 68.0, 8.5)
-[14:32:48] [Server thread/INFO]: ositotrk lost connection: Disconnected
-[14:32:48] [Server thread/INFO]: ositotrk left the game
-[14:32:56] [User Authenticator #1/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[14:32:57] [Server thread/INFO]: ositotrk joined the game
-[14:32:57] [Server thread/INFO]: ositotrk[/127.174.96.151:41517] logged in with entity id 1514 at ([world]18.69999998807907, 58.0, -99.69999998807907)
-[14:33:28] [Async Chat Thread - #1/INFO]: [Not Secure] <tizianovdz__> osoooo
-[14:33:33] [Async Chat Thread - #0/INFO]: [Not Secure] <tizianovdz__> adonde estas
-[14:34:02] [Async Chat Thread - #1/INFO]: [Not Secure] <ositotrk> EN UNA CUEVA
-[14:34:32] [Async Chat Thread - #0/INFO]: [Not Secure] <tizianovdz__> anda muy bien o no
-[14:34:41] [Async Chat Thread - #1/INFO]: [Not Secure] <ositotrk> un poco de lag
-[14:34:46] [Async Chat Thread - #0/INFO]: [Not Secure] <ositotrk> no mucho
-[14:34:57] [Async Chat Thread - #1/INFO]: [Not Secure] <tizianovdz__> pero mejor que aternos
-[14:35:01] [Async Chat Thread - #0/INFO]: [Not Secure] <ositotrk> ti
-[14:35:58] [Server thread/INFO]: tizianovdz__ issued server command: /tps
-[14:36:15] [Server thread/INFO]: Made tizianovdz__ a server operator
-[14:36:27] [Server thread/INFO]: tizianovdz__ issued server command: /tps
-[14:37:25] [Server thread/INFO]: ositotrk has made the advancement [Acquire Hardware]
-[14:37:26] [Async Chat Thread - #2/INFO]: [Not Secure] <tizianovdz__> osoooo
-[14:37:31] [Async Chat Thread - #3/INFO]: [Not Secure] <tizianovdz__> pasa cords
-[14:37:31] [Server thread/INFO]: ositotrk has made the advancement [Isn't It Iron Pick]
-[14:37:33] [Async Chat Thread - #2/INFO]: [Not Secure] <ositotrk> q
-[14:37:51] [Async Chat Thread - #3/INFO]: [Not Secure] <ositotrk> 18 45 -111
-[14:39:37] [Server thread/INFO]: tizianovdz__ has made the advancement [Monster Hunter]
-[14:39:55] [Async Chat Thread - #4/INFO]: [Not Secure] <ositotrk> ojala que dure el sv
-[14:40:05] [Async Chat Thread - #5/INFO]: [Not Secure] <ositotrk> anda mucho mejor q aternos
-[14:40:29] [Async Chat Thread - #4/INFO]: [Not Secure] <tizianovdz__> de papa que si
-[14:40:47] [Server thread/INFO]: ositotrk has made the advancement [Diamonds!]
-[14:40:50] [Async Chat Thread - #5/INFO]: [Not Secure] <tizianovdz__> oso me tpeo
-[14:41:02] [Async Chat Thread - #4/INFO]: [Not Secure] <ositotrk> ok
-[14:41:02] [Async Chat Thread - #5/INFO]: [Not Secure] <tizianovdz__> despues pongo los comandos para el tpa
-[14:41:11] [Server thread/INFO]: tizianovdz__ issued server command: /tp ositotrk
-[14:41:11] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to ositotrk]
-[14:41:36] [Server thread/INFO]: tizianovdz__ was slain by ositotrk
-[14:41:41] [Async Chat Thread - #4/INFO]: [Not Secure] <ositotrk> JAHSJHAJHASJAHJ
-[14:41:41] [Server thread/INFO]: tizianovdz__ issued server command: /tp ositotrk
-[14:41:41] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to ositotrk]
-[14:41:54] [Server thread/INFO]: tizianovdz__ was slain by ositotrk
-[14:41:59] [Server thread/INFO]: tizianovdz__ issued server command: /tp ositotrk
-[14:41:59] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to ositotrk]
-[14:42:06] [Server thread/INFO]: tizianovdz__ was slain by ositotrk
-[14:42:10] [Server thread/INFO]: tizianovdz__ issued server command: /tp ositotrk
-[14:42:10] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to ositotrk]
-[14:42:20] [Async Chat Thread - #5/INFO]: [Not Secure] <tizianovdz__> cortala
-[14:42:22] [Server thread/INFO]: tizianovdz__ has made the advancement [Stone Age]
-[14:43:08] [Server thread/INFO]: tizianovdz__ has made the advancement [Getting an Upgrade]
-[14:47:15] [Server thread/INFO]: tizianovdz__ has made the advancement [Acquire Hardware]
-[14:47:31] [Server thread/INFO]: tizianovdz__ has made the advancement [Isn't It Iron Pick]
-[14:47:51] [Server thread/INFO]: tizianovdz__ has made the advancement [Diamonds!]
-[14:47:56] [Async Chat Thread - #6/INFO]: [Not Secure] <ositotrk> ositotrk ha conseguido el progreso [@p]
-[14:49:10] [Server thread/INFO]: ositotrk has made the advancement [Cover Me with Diamonds]
-[14:49:15] [Async Chat Thread - #8/INFO]: [Not Secure] <tizianovdz__> alchooo
-[14:49:37] [Async Chat Thread - #9/INFO]: [Not Secure] <ositotrk> solo el peto
-[14:49:46] [Server thread/INFO]: tizianovdz__ fell from a high place
-[14:49:51] [Async Chat Thread - #8/INFO]: [Not Secure] <ositotrk> ashjahsj
-[14:50:08] [Async Chat Thread - #9/INFO]: [Not Secure] <tizianovdz__> me voy a comer
-[14:50:28] [Server thread/INFO]: tizianovdz__ lost connection: Disconnected
-[14:50:28] [Server thread/INFO]: tizianovdz__ left the game
-[14:51:00] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[14:51:08] [Server thread/INFO]: ositotrk lost connection: Timed out
-[14:51:08] [Server thread/INFO]: ositotrk left the game
-[14:51:19] [Server thread/INFO]: No entity was found
-[14:52:27] [User Authenticator #2/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[14:52:27] [Server thread/INFO]: ositotrk joined the game
-[14:52:27] [Server thread/INFO]: ositotrk[/127.174.96.151:34319] logged in with entity id 4466 at ([world]-28.807629622495455, -5.0, -125.60278783075385)
-[14:53:12] [Server thread/INFO]: ositotrk has made the advancement [Suit Up]
-[14:54:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
-...itle osoql<--[HERE]
-[14:58:58] [Server thread/INFO]: ositotrk has made the advancement [Monster Hunter]
-[15:03:28] [User Authenticator #3/INFO]: UUID of player Rapathez is 7bfe5195-b673-3063-b4c1-42bd971d7ff2
-[15:03:28] [Server thread/INFO]: Rapathez joined the game
-[15:03:28] [Server thread/INFO]: Rapathez[/127.233.75.16:44199] logged in with entity id 6013 at ([world]-56.5, 72.0, 8.5)
-[15:04:04] [Server thread/INFO]: ositotrk lost connection: Timed out
-[15:04:04] [Server thread/INFO]: ositotrk left the game
-[15:06:06] [User Authenticator #4/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[15:06:06] [Server thread/INFO]: ositotrk joined the game
-[15:06:06] [Server thread/INFO]: ositotrk[/127.174.96.151:37947] logged in with entity id 6352 at ([world]-92.52155978127941, -36.0, -150.91990569217495)
-[15:06:53] [Server thread/INFO]: Rapathez has made the advancement [Monster Hunter]
-[15:07:24] [Server thread/INFO]: Rapathez lost connection: Disconnected
-[15:07:24] [Server thread/INFO]: Rapathez left the game
-[15:07:28] [Server thread/INFO]: ositotrk lost connection: Disconnected
-[15:07:28] [Server thread/INFO]: ositotrk left the game
-[15:37:23] [User Authenticator #5/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[15:37:23] [Server thread/INFO]: ositotrk joined the game
-[15:37:23] [Server thread/INFO]: ositotrk[/127.174.96.151:47219] logged in with entity id 6678 at ([world]-92.52477319834641, -21.0, -168.69999998807907)
-[15:37:35] [User Authenticator #5/INFO]: UUID of player Rapathez is 7bfe5195-b673-3063-b4c1-42bd971d7ff2
-[15:37:35] [Server thread/INFO]: Rapathez joined the game
-[15:37:35] [Server thread/INFO]: Rapathez[/127.233.75.16:49753] logged in with entity id 6697 at ([world]-19.082737208032295, 65.0, 16.420501548611654)
-[15:38:48] [Server thread/INFO]: Rapathez has made the advancement [Stone Age]
-[15:39:45] [Server thread/INFO]: Rapathez has made the advancement [Getting an Upgrade]
-[15:43:17] [Async Chat Thread - #10/INFO]: [Not Secure] <Rapathez> -143
-[15:43:42] [Async Chat Thread - #11/INFO]: [Not Secure] <Rapathez> 70 22
-[15:43:48] [Server thread/INFO]: Rapathez was slain by Zombie
-[15:47:21] [Server thread/INFO]: Rapathez has made the advancement [Diamonds!]
-[15:47:31] [Server thread/INFO]: Rapathez has made the advancement [Acquire Hardware]
-[15:47:40] [Server thread/INFO]: Rapathez has made the advancement [Suit Up]
-[15:56:46] [Server thread/INFO]: ositotrk lost connection: Timed out
-[15:56:46] [Server thread/INFO]: ositotrk left the game
-[15:57:55] [User Authenticator #6/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[15:57:55] [Server thread/INFO]: ositotrk joined the game
-[15:57:55] [Server thread/INFO]: ositotrk[/127.174.96.151:38073] logged in with entity id 12101 at ([world]-502.2144969704491, 66.0, -169.4899670334463)
-[15:58:04] [Server thread/INFO]: ositotrk has made the advancement [Sweet Dreams]
-[15:58:17] [Server thread/INFO]: Rapathez has made the advancement [Sweet Dreams]
-[15:58:21] [Async Chat Thread - #12/INFO]: [Not Secure] <Rapathez> SSSSSSSSSSSSSSSSSS
-[16:05:25] [Server thread/INFO]: Rapathez lost connection: Disconnected
-[16:05:25] [Server thread/INFO]: Rapathez left the game
-[16:05:33] [User Authenticator #7/INFO]: UUID of player Rapathez is 7bfe5195-b673-3063-b4c1-42bd971d7ff2
-[16:05:33] [Server thread/INFO]: Rapathez joined the game
-[16:05:33] [Server thread/INFO]: Rapathez[/127.233.75.16:50343] logged in with entity id 13096 at ([world]-517.6999999880791, 62.0, -167.69999998807907)
-[16:11:20] [Server thread/INFO]: ositotrk lost connection: Timed out
-[16:11:20] [Server thread/INFO]: ositotrk left the game
-[16:12:43] [User Authenticator #8/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[16:12:43] [Server thread/INFO]: ositotrk joined the game
-[16:12:43] [Server thread/INFO]: ositotrk[/127.174.96.151:34453] logged in with entity id 13898 at ([world]-502.09775024900597, 63.0, -182.30000001192093)
-[16:12:51] [Server thread/INFO]: ositotrk suffocated in a wall
-[16:15:04] [Server thread/INFO]: Rapathez has made the advancement [Ice Bucket Challenge]
-[16:22:08] [Server thread/INFO]: Rapathez lost connection: Disconnected
-[16:22:08] [Server thread/INFO]: Rapathez left the game
-[16:22:52] [Server thread/INFO]: ositotrk lost connection: Timed out
-[16:22:52] [Server thread/INFO]: ositotrk left the game
+[17:27:19] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[17:27:19] [Server thread/INFO]: Default game type: SURVIVAL
+[17:27:19] [Server thread/INFO]: Generating keypair
+[17:27:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:27:19] [Server thread/INFO]: Using epoll channel type
+[17:27:19] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:27:19] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:27:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:27:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:27:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:27:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:27:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:27:19] [Server thread/INFO]: Preparing level "world"
+[17:27:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:27:20] [Server thread/INFO]: Time elapsed: 193 ms
+[17:27:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:27:20] [Server thread/INFO]: Time elapsed: 59 ms
+[17:27:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:27:20] [Server thread/INFO]: Time elapsed: 73 ms
+[17:27:20] [Server thread/INFO]: Running delayed init tasks
+[17:27:20] [Server thread/INFO]: Done (1.419s)! For help, type "help"
+[17:27:20] [Server thread/INFO]: Timings Reset
+[17:31:09] [User Authenticator #0/INFO]: UUID of player tizianovdz__ is 21e95d2b-3ea9-34d1-af48-9ea13cd247d4
+[17:31:12] [Server thread/INFO]: tizianovdz__ joined the game
+[17:31:12] [Server thread/INFO]: tizianovdz__[/127.110.130.87:36679] logged in with entity id 120 at ([world]-43.69999998807907, 69.0, -6.699999988079071)
+[17:34:25] [Server thread/INFO]: tizianovdz__ was slain by Zombie
