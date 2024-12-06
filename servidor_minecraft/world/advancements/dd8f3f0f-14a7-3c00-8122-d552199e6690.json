@@ -1157,6 +1157,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-06 15:46:52 +0000",
+      "cooked_mutton": "2024-12-06 19:18:16 +0000",
       "porkchop": "2024-12-06 14:42:38 +0000",
       "mutton": "2024-12-06 14:42:10 +0000"
     },
@@ -1230,6 +1231,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-06 19:16:57 +0000",
       "minecraft:spider": "2024-12-06 15:42:33 +0000",
       "minecraft:cave_spider": "2024-12-06 15:39:38 +0000",
       "minecraft:zombie": "2024-12-06 14:58:58 +0000"
@@ -1446,6 +1448,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-06 19:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-06 19:16:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-06 19:10:41 +0000"
@@ -1461,6 +1475,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-06 19:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-06 19:19:11 +0000"
     },
     "done": true
   },
