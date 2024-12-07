@@ -1237,6 +1237,7 @@
       "minecraft:skeleton": "2024-12-06 19:16:57 +0000",
       "minecraft:hoglin": "2024-12-06 19:47:41 +0000",
       "minecraft:spider": "2024-12-06 15:42:33 +0000",
+      "minecraft:creeper": "2024-12-07 17:41:59 +0000",
       "minecraft:wither_skeleton": "2024-12-06 19:59:30 +0000",
       "minecraft:cave_spider": "2024-12-06 15:39:38 +0000",
       "minecraft:enderman": "2024-12-06 19:50:44 +0000",
@@ -1806,6 +1807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-06 20:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-06 20:54:09 +0000"
@@ -1818,15 +1825,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-06 20:30:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-06 20:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-07 17:41:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-07 17:41:59 +0000"
     },
     "done": true
   },
