@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-17 20:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-17 19:16:43 +0000"
@@ -410,6 +416,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 19:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-17 20:06:08 +0000"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-17 20:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-17 19:19:00 +0000"
@@ -777,7 +795,8 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-17 19:35:31 +0000",
       "minecraft:spider": "2024-12-17 19:34:26 +0000",
-      "minecraft:cave_spider": "2024-12-17 19:37:50 +0000"
+      "minecraft:cave_spider": "2024-12-17 19:37:50 +0000",
+      "minecraft:zombie": "2024-12-17 20:01:54 +0000"
     },
     "done": false
   },
@@ -790,6 +809,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-17 19:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-17 20:02:33 +0000"
     },
     "done": true
   },
@@ -871,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-17 20:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-17 19:32:04 +0000"
@@ -916,8 +947,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-17 19:15:31 +0000",
+      "minecraft:river": "2024-12-17 20:02:58 +0000",
       "minecraft:stony_shore": "2024-12-17 19:15:04 +0000",
       "minecraft:forest": "2024-12-17 19:17:31 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-17 20:03:41 +0000",
       "minecraft:plains": "2024-12-17 19:15:10 +0000"
     },
     "done": false

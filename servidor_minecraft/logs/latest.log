@@ -126,3 +126,10 @@
 [20:03:49] [Server thread/INFO]: ositotrk fell from a high place
 [20:03:53] [Server thread/INFO]: ositotrk lost connection: Disconnected
 [20:03:53] [Server thread/INFO]: ositotrk left the game
+[20:05:30] [Server thread/INFO]: Zorraxdlol was slain by Zombie
+[20:05:46] [Server thread/INFO]: Villager EntityVillager['Farmer'/13286, uuid='2da67a7c-a1a4-4c0c-b776-27230af0dd30', l='ServerLevel[world]', x=588.87, y=68.00, z=-751.55, cpos=[36, -47], tl=37589, v=true] died, message: 'Farmer hit the ground too hard whilst trying to escape Zombie'
+[20:05:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Rapathez> -189 81 367
+[20:06:10] [Server thread/INFO]: Rapathez lost connection: Disconnected
+[20:06:10] [Server thread/INFO]: Rapathez left the game
+[20:12:56] [Server thread/INFO]: Zorraxdlol lost connection: Disconnected
+[20:12:56] [Server thread/INFO]: Zorraxdlol left the game
