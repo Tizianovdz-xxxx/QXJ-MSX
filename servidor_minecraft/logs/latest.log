@@ -53,3 +53,34 @@
 [19:22:18] [Server thread/INFO]: Zorraxdlol has made the advancement [Getting an Upgrade]
 [19:23:51] [Server thread/INFO]: tizianovdz__ was slain by Rapathez
 [19:24:03] [Server thread/INFO]: Rapathez has made the advancement [Getting an Upgrade]
+[19:24:22] [Server thread/INFO]: tizianovdz__ issued server command: /kill @a
+[19:24:22] [Server thread/INFO]: Zorraxdlol was killed
+[19:24:22] [Server thread/INFO]: ositotrk was killed
+[19:24:22] [Server thread/INFO]: Rapathez was killed
+[19:24:22] [Server thread/INFO]: tizianovdz__ was killed
+[19:24:22] [Server thread/INFO]: [tizianovdz__: Killed 4 entities]
+[19:26:20] [Server thread/INFO]: Zorraxdlol lost connection: Disconnected
+[19:26:20] [Server thread/INFO]: Zorraxdlol left the game
+[19:26:40] [User Authenticator #2/INFO]: UUID of player Zorraxdlol is a7439a9a-d20d-35e9-9b3c-e8bc48bcd5a8
+[19:26:40] [Server thread/INFO]: Zorraxdlol joined the game
+[19:26:40] [Server thread/INFO]: Zorraxdlol[/127.200.223.6:46409] logged in with entity id 6207 at ([world]42.71346076723148, 62.101497693253016, 450.7814141428462)
+[19:27:19] [Server thread/INFO]: tizianovdz__ has made the advancement [Monster Hunter]
+[19:27:37] [Server thread/INFO]: tizianovdz__ was doomed to fall by Skeleton
+[19:27:47] [Server thread/INFO]: tizianovdz__ issued server command: /tp ositotrk
+[19:27:47] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to ositotrk]
+[19:28:07] [Server thread/INFO]: tizianovdz__ has made the advancement [Stone Age]
+[19:29:32] [Server thread/INFO]: Rapathez has made the advancement [Acquire Hardware]
+[19:29:38] [Server thread/INFO]: tizianovdz__ has made the advancement [Getting an Upgrade]
+[19:29:40] [Server thread/INFO]: Rapathez has made the advancement [Isn't It Iron Pick]
+[19:29:43] [Server thread/INFO]: tizianovdz__ was shot by Skeleton
+[19:30:26] [Server thread/INFO]: Rapathez has made the advancement [Suit Up]
+[19:30:31] [Server thread/INFO]: tizianovdz__ issued server command: /time set day
+[19:30:31] [Server thread/INFO]: [tizianovdz__: Set the time to 1000]
+[19:30:33] [Server thread/INFO]: Zorraxdlol was shot by Skeleton
+[19:32:44] [Server thread/INFO]: tizianovdz__ issued server command: /seed
+[19:33:55] [Server thread/INFO]: tizianovdz__ issued server command: /tp 576 ~ -768
+[19:33:57] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to 576.500000, 102.000000, -767.500000]
+[19:33:57] [Server thread/WARN]: tizianovdz__ moved too quickly! 640.375238490404,0.0,-1024.9279247961008
+[19:34:06] [Server thread/INFO]: tizianovdz__ fell from a high place
+[19:34:14] [Server thread/INFO]: tizianovdz__ issued server command: /tp 576 ~ -768
+[19:34:14] [Server thread/INFO]: [tizianovdz__: Teleported tizianovdz__ to 576.500000, 68.000000, -767.500000]
