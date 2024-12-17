@@ -101,3 +101,15 @@
 [19:41:06] [Server thread/INFO]: Zorraxdlol was slain by Zombie
 [19:41:32] [Server thread/INFO]: Zorraxdlol lost connection: Disconnected
 [19:41:32] [Server thread/INFO]: Zorraxdlol left the game
+[19:45:56] [Server thread/INFO]: Villager EntityVillager['Villager'/13265, uuid='a33d5dd9-a209-4130-9a7e-87d9a1545c81', l='ServerLevel[world]', x=586.86, y=66.00, z=-773.03, cpos=[36, -49], tl=13966, v=true] died, message: 'Villager was slain by Zombie'
+[19:46:08] [Server thread/INFO]: Villager EntityVillager['Villager'/13264, uuid='a5ea5cb7-9ce8-41c8-a465-e4d3d8655091', l='ServerLevel[world]', x=583.00, y=66.00, z=-778.48, cpos=[36, -49], tl=14202, v=true] died, message: 'Villager was slain by Zombie'
+[19:49:22] [User Authenticator #4/INFO]: UUID of player Zorraxdlol is a7439a9a-d20d-35e9-9b3c-e8bc48bcd5a8
+[19:49:22] [Server thread/INFO]: Zorraxdlol joined the game
+[19:49:22] [Server thread/INFO]: Zorraxdlol[/127.200.223.6:47079] logged in with entity id 18387 at ([world]36.5678606401668, 79.0, 164.87765422539587)
+[19:49:23] [Server thread/INFO]: Zorraxdlol lost connection: Disconnected
+[19:49:23] [Server thread/INFO]: Zorraxdlol left the game
+[19:49:37] [User Authenticator #4/INFO]: UUID of player Zorraxdlol is a7439a9a-d20d-35e9-9b3c-e8bc48bcd5a8
+[19:49:37] [Server thread/INFO]: Zorraxdlol joined the game
+[19:49:37] [Server thread/INFO]: Zorraxdlol[/127.200.223.6:50199] logged in with entity id 18481 at ([world]36.5678606401668, 79.0, 164.87765422539587)
+[19:50:14] [Server thread/INFO]: ositotrk has made the advancement [Cover Me with Diamonds]
+[19:51:55] [Server thread/INFO]: Rapathez has made the advancement [Cover Me with Diamonds]
