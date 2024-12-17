@@ -1,38 +1,55 @@
-[18:35:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18:35:04] [ServerMain/INFO]: Loaded 7 recipes
-[18:35:05] [Server thread/INFO]: Starting minecraft server version 1.20
-[18:35:05] [Server thread/INFO]: Loading properties
-[18:35:05] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
-[18:35:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:35:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:35:05] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[19:14:14] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:14:14] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[19:14:16] [ServerMain/INFO]: Loaded 7 recipes
+[19:14:16] [Server thread/INFO]: Starting minecraft server version 1.20
+[19:14:16] [Server thread/INFO]: Loading properties
+[19:14:16] [Server thread/INFO]: This server is running Paper version git-Paper-17 (MC: 1.20) (Implementing API version 1.20-R0.1-SNAPSHOT) (Git: c287e92)
+[19:14:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:14:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:14:17] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:35:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[18:35:05] [Server thread/INFO]: Default game type: SURVIVAL
-[18:35:05] [Server thread/INFO]: Generating keypair
-[18:35:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:35:06] [Server thread/INFO]: Using epoll channel type
-[18:35:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:35:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:35:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:35:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:35:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:35:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:35:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:35:06] [Server thread/INFO]: Preparing level "world"
-[18:35:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:35:07] [Server thread/INFO]: Time elapsed: 338 ms
-[18:35:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:35:07] [Server thread/INFO]: Time elapsed: 132 ms
-[18:35:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:35:07] [Server thread/INFO]: Time elapsed: 83 ms
-[18:35:07] [Server thread/INFO]: Running delayed init tasks
-[18:35:07] [Server thread/INFO]: Done (1.993s)! For help, type "help"
-[18:35:07] [Server thread/INFO]: Timings Reset
-[18:35:18] [User Authenticator #0/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
-[18:35:21] [Server thread/INFO]: ositotrk joined the game
-[18:35:21] [Server thread/INFO]: ositotrk[/127.174.96.151:50689] logged in with entity id 170 at ([world_nether]-223.30000001192093, 75.0, -73.30770276744195)
-[18:42:35] [Server thread/INFO]: ositotrk has made the advancement [Into Fire]
-[18:45:25] [Server thread/INFO]: ositotrk lost connection: Disconnected
-[18:45:25] [Server thread/INFO]: ositotrk left the game
+[19:14:17] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:14:17] [Server thread/INFO]: Default game type: SURVIVAL
+[19:14:17] [Server thread/INFO]: Generating keypair
+[19:14:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:14:17] [Server thread/INFO]: Using epoll channel type
+[19:14:17] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:14:17] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:14:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:14:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:14:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:14:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:14:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:14:17] [Server thread/INFO]: Preparing level "world"
+[19:14:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:14:25] [Server thread/INFO]: Time elapsed: 162 ms
+[19:14:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:14:25] [Server thread/INFO]: Time elapsed: 68 ms
+[19:14:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:14:25] [Server thread/INFO]: Time elapsed: 36 ms
+[19:14:26] [Server thread/INFO]: Running delayed init tasks
+[19:14:26] [Server thread/INFO]: Done (9.356s)! For help, type "help"
+[19:14:26] [Server thread/INFO]: Timings Reset
+[19:15:01] [User Authenticator #0/INFO]: UUID of player Rapathez is 7bfe5195-b673-3063-b4c1-42bd971d7ff2
+[19:15:03] [Server thread/INFO]: Rapathez joined the game
+[19:15:03] [Server thread/INFO]: Rapathez[/127.18.13.228:44937] logged in with entity id 188 at ([world]5.5, 67.0, 128.5)
+[19:15:40] [User Authenticator #0/INFO]: UUID of player ositotrk is dd8f3f0f-14a7-3c00-8122-d552199e6690
+[19:15:40] [Server thread/INFO]: ositotrk joined the game
+[19:15:40] [Server thread/INFO]: ositotrk[/127.174.96.151:39089] logged in with entity id 749 at ([world]2.5, 64.0, 125.5)
+[19:16:17] [User Authenticator #0/INFO]: UUID of player Zorraxdlol is a7439a9a-d20d-35e9-9b3c-e8bc48bcd5a8
+[19:16:17] [Server thread/INFO]: Zorraxdlol joined the game
+[19:16:17] [Server thread/INFO]: Zorraxdlol[/127.200.223.6:55379] logged in with entity id 981 at ([world]-7.5, 71.0, 136.5)
+[19:17:44] [User Authenticator #1/INFO]: UUID of player tizianovdz__ is 21e95d2b-3ea9-34d1-af48-9ea13cd247d4
+[19:17:44] [Server thread/INFO]: tizianovdz__ joined the game
+[19:17:45] [Server thread/INFO]: tizianovdz__[/127.185.43.144:39815] logged in with entity id 1595 at ([world]-7.5, 72.0, 138.5)
+[19:18:58] [Server thread/INFO]: ositotrk was slain by Zorraxdlol
+[19:19:00] [Server thread/INFO]: Rapathez has made the advancement [Stone Age]
+[19:20:19] [Server thread/INFO]: ositotrk has made the advancement [Stone Age]
+[19:20:39] [Server thread/INFO]: Rapathez was doomed to fall by tizianovdz__
+[19:21:05] [Server thread/INFO]: ositotrk has made the advancement [Getting an Upgrade]
+[19:21:46] [Server thread/INFO]: Zorraxdlol has made the advancement [Stone Age]
+[19:22:07] [Server thread/INFO]: Rapathez was slain by ositotrk
+[19:22:18] [Server thread/INFO]: Zorraxdlol has made the advancement [Getting an Upgrade]
+[19:23:51] [Server thread/INFO]: tizianovdz__ was slain by Rapathez
+[19:24:03] [Server thread/INFO]: Rapathez has made the advancement [Getting an Upgrade]
